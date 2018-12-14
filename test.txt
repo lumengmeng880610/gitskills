@@ -5,9 +5,8 @@ now branch
 feature1 branch update new11333445566
 
 merge new test.txt
-<<<<<<< HEAD
-
-=======
 ddddd dev
->>>>>>> dev
 
+merge merge
+
+eeee
