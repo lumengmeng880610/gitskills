@@ -1,4 +1,4 @@
 
 git branch dec test text
 now branch
-featrue1 branch update new 
+feature1 branch update new
