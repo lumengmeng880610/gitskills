@@ -1,8 +1,8 @@
 
 git branch dec test text
 now branch
-<<<<<<< HEAD
+
 feature1 branch update new11333445566
-=======
-feature1 branch update new222
->>>>>>> feature1
+
+
+
