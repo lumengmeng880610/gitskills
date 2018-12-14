@@ -10,5 +10,9 @@ ddddd dev
 merge merge
 
 eeee
+<<<<<<< Updated upstream
  
 rreiurepuireurtert test text content
+=======
+git bug branch
+>>>>>>> Stashed changes
